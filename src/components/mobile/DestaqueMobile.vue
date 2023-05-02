@@ -1,7 +1,7 @@
 <template>
     <section class="destaque_produtos">
         <div class="select_produtos">
-            <span><</span>
+            <span>'&lt'</span>
             <p id="home">Home |</p>
             <p>Eletrodomésticos</p>
          </div>
