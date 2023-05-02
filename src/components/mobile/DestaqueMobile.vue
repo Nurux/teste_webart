@@ -1,9 +1,7 @@
 <template>
     <section class="destaque_produtos">
         <div class="select_produtos">
-            <span class="material-symbols-outlined">
-                chevron_left
-            </span>
+            <span><</span>
             <p id="home">Home |</p>
             <p>Eletrodomésticos</p>
          </div>
